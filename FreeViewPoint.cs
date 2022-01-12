@@ -14,9 +14,6 @@ public class FreeViewPoint : MonoBehaviour
     float yRotCounter = 0.0f;
     float xRotCounter = 0.0f;
 
-    bool tabbed = false;
-    float maxTimeDoubleTab = 0.5f; //0.5초
-
     // Start is called before the first frame update
     void Start()
     {
